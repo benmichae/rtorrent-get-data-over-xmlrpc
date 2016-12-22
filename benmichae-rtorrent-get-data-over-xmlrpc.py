@@ -4,7 +4,7 @@
 # (no c) 2016 @benmichae <benmichae@gmail.com>
 #
 # Python library for displaying rtorrent data on a breakout OLED Screen
-# Requires rtorrent instatlled, and XML RPC Socket setup. This script is not error tolerant.
+# Requires rtorrent installed, and XML RPC Socket setup. This script is not error tolerant.
 #
 # References
 # 1. https://github.com/rakshasa/rtorrent/wiki/RPC-Setup-XMLRPC
